@@ -1,0 +1,1576 @@
+fileFormatVersion: 2
+guid: f969fef568b5f844b8b9c76da89ec86f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3709065652348531779
+    second: SkillEnd_0
+  - first:
+      213: -1221876934249761127
+    second: SkillEnd_1
+  - first:
+      213: 8845508097225891527
+    second: SkillEnd_2
+  - first:
+      213: -7968114954730270334
+    second: SkillEnd_3
+  - first:
+      213: -8702317645626997006
+    second: SkillEnd_4
+  - first:
+      213: 1484003463790363323
+    second: SkillEnd_5
+  - first:
+      213: 5315124047324739014
+    second: SkillEnd_6
+  - first:
+      213: 1400112855428033808
+    second: SkillEnd_7
+  - first:
+      213: -635007063535663869
+    second: SkillEnd_8
+  - first:
+      213: -9088571847650587338
+    second: SkillEnd_9
+  - first:
+      213: 5758074443432410936
+    second: SkillEnd_10
+  - first:
+      213: -2662577225328457652
+    second: SkillEnd_11
+  - first:
+      213: -6083221922514522950
+    second: SkillEnd_12
+  - first:
+      213: 4177429748354814938
+    second: SkillEnd_13
+  - first:
+      213: 5280689878833535477
+    second: SkillEnd_14
+  - first:
+      213: 2127580697938418615
+    second: SkillEnd_15
+  - first:
+      213: 5467762560479547721
+    second: SkillEnd_16
+  - first:
+      213: -7478910868210652981
+    second: SkillEnd_17
+  - first:
+      213: 388720111745933603
+    second: SkillEnd_18
+  - first:
+      213: -1776539367329118015
+    second: SkillEnd_19
+  - first:
+      213: 2320998252152873512
+    second: SkillEnd_20
+  - first:
+      213: 3440757333436760294
+    second: SkillEnd_21
+  - first:
+      213: 835581522288362274
+    second: SkillEnd_22
+  - first:
+      213: -6122383564718748735
+    second: SkillEnd_23
+  - first:
+      213: -8233203076910249251
+    second: SkillEnd_24
+  - first:
+      213: -3612638628873225091
+    second: SkillEnd_25
+  - first:
+      213: -9136415978142624439
+    second: SkillEnd_26
+  - first:
+      213: -8256246821789408647
+    second: SkillEnd_27
+  - first:
+      213: -8279779006287211818
+    second: SkillEnd_28
+  - first:
+      213: -3581971211622950870
+    second: SkillEnd_29
+  - first:
+      213: 6514402730209208437
+    second: SkillEnd_30
+  - first:
+      213: 1108770539252592777
+    second: SkillEnd_31
+  - first:
+      213: -9200826675027635952
+    second: SkillEnd_32
+  - first:
+      213: -1833187797538652213
+    second: SkillEnd_33
+  - first:
+      213: -5700212782915360481
+    second: SkillEnd_34
+  - first:
+      213: -7803502332261782837
+    second: SkillEnd_35
+  - first:
+      213: 6399696284247918818
+    second: SkillEnd_36
+  - first:
+      213: -3768766473994248619
+    second: SkillEnd_37
+  - first:
+      213: -4620204243143433854
+    second: SkillEnd_38
+  - first:
+      213: 7343146381310975574
+    second: SkillEnd_39
+  - first:
+      213: -8743793587593758682
+    second: SkillEnd_40
+  - first:
+      213: 5052013939489876356
+    second: SkillEnd_41
+  - first:
+      213: -7174570657107818480
+    second: SkillEnd_42
+  - first:
+      213: -6373298843937421092
+    second: SkillEnd_43
+  - first:
+      213: -6380580921855845939
+    second: SkillEnd_44
+  - first:
+      213: 2111815005237436204
+    second: SkillEnd_45
+  - first:
+      213: 6264995956063456155
+    second: SkillEnd_46
+  - first:
+      213: -1817942882177016831
+    second: SkillEnd_47
+  - first:
+      213: 8218834881329552441
+    second: SkillEnd_48
+  - first:
+      213: 5052592526657628956
+    second: SkillEnd_49
+  - first:
+      213: -556546677202216562
+    second: SkillEnd_50
+  - first:
+      213: -7108581521888890628
+    second: SkillEnd_51
+  - first:
+      213: 122556036783393814
+    second: SkillEnd_52
+  - first:
+      213: -91140229117752719
+    second: SkillEnd_53
+  - first:
+      213: 6005187306904377584
+    second: SkillEnd_54
+  - first:
+      213: 583418994843168148
+    second: SkillEnd_55
+  - first:
+      213: -1418835990034694561
+    second: SkillEnd_56
+  - first:
+      213: 15743780457516317
+    second: SkillEnd_57
+  - first:
+      213: 1060679836356493729
+    second: SkillEnd_58
+  - first:
+      213: -5900112518707845094
+    second: SkillEnd_59
+  - first:
+      213: -4337656818437405148
+    second: SkillEnd_60
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SkillEnd_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 3667
+        width: 441
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34436d03f8f397330800000000000000
+      internalID: 3709065652348531779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillEnd_1
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 3667
+        width: 432
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 996bccee6650b0fe0800000000000000
+      internalID: -1221876934249761127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillEnd_2
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 3667
+        width: 431
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce9df8bfbe81ca70800000000000000
+      internalID: 8845508097225891527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillEnd_3
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 3669
+        width: 432
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28113d16aa19b6190800000000000000
+      internalID: -7968114954730270334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillEnd_4
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 3671
+        width: 432
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f60ac945382b3780800000000000000
+      internalID: -8702317645626997006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillEnd_5
+      rect:
+        serializedVersion: 2
+        x: 2212
+        y: 3673
+        width: 430
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb28ca8a94d389410800000000000000
+      internalID: 1484003463790363323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillEnd_6
+      rect:
+        serializedVersion: 2
+        x: 2645
+        y: 3673
+        width: 428
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c57de9092d13c940800000000000000
+      internalID: 5315124047324739014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillEnd_7
+      rect:
+        serializedVersion: 2
+        x: 3077
+        y: 3673
+        width: 431
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01dee3159333e6310800000000000000
+      internalID: 1400112855428033808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillEnd_8
+      rect:
+        serializedVersion: 2
+        x: 3512
+        y: 3671
+        width: 431
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305c71ca0700037f0800000000000000
+      internalID: -635007063535663869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillEnd_9
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 3266
+        width: 435
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63dcb21de08eed180800000000000000
+      internalID: -9088571847650587338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillEnd_10
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 3264
+        width: 439
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f3b0fd23ac8ef40800000000000000
+      internalID: 5758074443432410936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillEnd_11
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 3262
+        width: 442
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c488049de10ac0bd0800000000000000
+      internalID: -2662577225328457652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillEnd_12
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 3262
+        width: 440
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc27aa44ed049ba0800000000000000
+      internalID: -6083221922514522950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillEnd_13
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 3262
+        width: 434
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad396d0293639f930800000000000000
+      internalID: 4177429748354814938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillEnd_14
+      rect:
+        serializedVersion: 2
+        x: 2235
+        y: 3264
+        width: 431
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f99fdc6777c84940800000000000000
+      internalID: 5280689878833535477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillEnd_15
+      rect:
+        serializedVersion: 2
+        x: 2670
+        y: 3266
+        width: 429
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bbd8935f5fa68d10800000000000000
+      internalID: 2127580697938418615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillEnd_16
+      rect:
+        serializedVersion: 2
+        x: 3102
+        y: 3266
+        width: 428
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941509d441561eb40800000000000000
+      internalID: 5467762560479547721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillEnd_17
+      rect:
+        serializedVersion: 2
+        x: 3533
+        y: 3266
+        width: 428
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8ee79b032953890800000000000000
+      internalID: -7478910868210652981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillEnd_18
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 2863
+        width: 427
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 321aaa1d1e2056500800000000000000
+      internalID: 388720111745933603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillEnd_19
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 2861
+        width: 430
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8c9d0abd67857e0800000000000000
+      internalID: -1776539367329118015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillEnd_20
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 2861
+        width: 432
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822efd7fc97d53020800000000000000
+      internalID: 2320998252152873512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillEnd_21
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 2861
+        width: 433
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e081d9909600cf20800000000000000
+      internalID: 3440757333436760294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillEnd_22
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 2861
+        width: 435
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 223c0e8a7f4989b00800000000000000
+      internalID: 835581522288362274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillEnd_23
+      rect:
+        serializedVersion: 2
+        x: 2203
+        y: 2859
+        width: 437
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cbcf3ee59ce80ba0800000000000000
+      internalID: -6122383564718748735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillEnd_24
+      rect:
+        serializedVersion: 2
+        x: 2643
+        y: 2859
+        width: 438
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda8c154c69cdbd80800000000000000
+      internalID: -8233203076910249251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillEnd_25
+      rect:
+        serializedVersion: 2
+        x: 3084
+        y: 2859
+        width: 436
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c3820ce445dddc0800000000000000
+      internalID: -3612638628873225091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillEnd_26
+      rect:
+        serializedVersion: 2
+        x: 3523
+        y: 2859
+        width: 430
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9451b9e131ee43180800000000000000
+      internalID: -9136415978142624439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillEnd_27
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 2456
+        width: 427
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9726b41524beb6d80800000000000000
+      internalID: -8256246821789408647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillEnd_28
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 2454
+        width: 430
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d29387acd0581d80800000000000000
+      internalID: -8279779006287211818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillEnd_29
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 2456
+        width: 430
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28d98f39284a4ec0800000000000000
+      internalID: -3581971211622950870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillEnd_30
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 2458
+        width: 430
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57864f1b4cec76a50800000000000000
+      internalID: 6514402730209208437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillEnd_31
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 2458
+        width: 432
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 980b1915ee4236f00800000000000000
+      internalID: 1108770539252592777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillEnd_32
+      rect:
+        serializedVersion: 2
+        x: 2193
+        y: 2458
+        width: 431
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0111a0b13e8105080800000000000000
+      internalID: -9200826675027635952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillEnd_33
+      rect:
+        serializedVersion: 2
+        x: 2627
+        y: 2458
+        width: 432
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcfb02929653f86e0800000000000000
+      internalID: -1833187797538652213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillEnd_34
+      rect:
+        serializedVersion: 2
+        x: 3062
+        y: 2458
+        width: 432
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19603acca6c4e0b0800000000000000
+      internalID: -5700212782915360481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillEnd_35
+      rect:
+        serializedVersion: 2
+        x: 3497
+        y: 2458
+        width: 432
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcaaa9939f364b390800000000000000
+      internalID: -7803502332261782837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillEnd_36
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 2053
+        width: 429
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e80cfc0dd940d850800000000000000
+      internalID: 6399696284247918818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillEnd_37
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 2053
+        width: 430
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55edb241cd6a2bbc0800000000000000
+      internalID: -3768766473994248619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillEnd_38
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 2049
+        width: 426
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 281eea148bcb1efb0800000000000000
+      internalID: -4620204243143433854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillEnd_39
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 2049
+        width: 426
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e5cb76ab818e560800000000000000
+      internalID: 7343146381310975574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillEnd_40
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 2047
+        width: 426
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628b2260f0ec7a680800000000000000
+      internalID: -8743793587593758682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillEnd_41
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 2047
+        width: 424
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489ad9749eb5c1640800000000000000
+      internalID: 5052013939489876356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillEnd_42
+      rect:
+        serializedVersion: 2
+        x: 2607
+        y: 2047
+        width: 422
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 018c527fffdce6c90800000000000000
+      internalID: -7174570657107818480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillEnd_43
+      rect:
+        serializedVersion: 2
+        x: 3032
+        y: 2053
+        width: 424
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8c3b7f77e7d87a0800000000000000
+      internalID: -6373298843937421092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillEnd_44
+      rect:
+        serializedVersion: 2
+        x: 3459
+        y: 2063
+        width: 424
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9d524157f9377a0800000000000000
+      internalID: -6380580921855845939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillEnd_45
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1658
+        width: 424
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f5482fe8cae4d10800000000000000
+      internalID: 2111815005237436204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillEnd_46
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1666
+        width: 420
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9bcb60f0acb1f650800000000000000
+      internalID: 6264995956063456155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillEnd_47
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 1670
+        width: 414
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c93ed949e55c6e0800000000000000
+      internalID: -1817942882177016831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillEnd_48
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 1668
+        width: 414
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93cdc3187ca2f0270800000000000000
+      internalID: 8218834881329552441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillEnd_49
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 1668
+        width: 407
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ba83a122a6e1640800000000000000
+      internalID: 5052592526657628956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillEnd_50
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 1670
+        width: 402
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89107ceebfb648f0800000000000000
+      internalID: -556546677202216562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillEnd_51
+      rect:
+        serializedVersion: 2
+        x: 2527
+        y: 1668
+        width: 398
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf038eac4ce395d90800000000000000
+      internalID: -7108581521888890628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillEnd_52
+      rect:
+        serializedVersion: 2
+        x: 2928
+        y: 1668
+        width: 392
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ccd8de01863b100800000000000000
+      internalID: 122556036783393814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillEnd_53
+      rect:
+        serializedVersion: 2
+        x: 3323
+        y: 1670
+        width: 390
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a40bac1743cbef0800000000000000
+      internalID: -91140229117752719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillEnd_54
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1283
+        width: 381
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f858bde906b65350800000000000000
+      internalID: 6005187306904377584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillEnd_55
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1285
+        width: 376
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49da7d61c78b81800800000000000000
+      internalID: 583418994843168148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillEnd_56
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 1287
+        width: 368
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e31733f284f4ce0800000000000000
+      internalID: -1418835990034694561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillEnd_57
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 1289
+        width: 358
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d879982eee73000800000000000000
+      internalID: 15743780457516317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillEnd_58
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 1285
+        width: 350
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1c27201ba48be00800000000000000
+      internalID: 1060679836356493729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillEnd_59
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 1281
+        width: 343
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a186593ace69e1ea0800000000000000
+      internalID: -5900112518707845094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillEnd_60
+      rect:
+        serializedVersion: 2
+        x: 2223
+        y: 1279
+        width: 340
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 426cc730b1c8dc3c0800000000000000
+      internalID: -4337656818437405148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

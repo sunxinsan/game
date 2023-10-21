@@ -1,0 +1,1000 @@
+fileFormatVersion: 2
+guid: 7a697be99e7ead849abfcdf16a3ffcb7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4707915106627438607
+    second: SkillLoop_0
+  - first:
+      213: 2601584155344227701
+    second: SkillLoop_1
+  - first:
+      213: 5051236608430059556
+    second: SkillLoop_2
+  - first:
+      213: 1456913209207624781
+    second: SkillLoop_3
+  - first:
+      213: -8503585034383163285
+    second: SkillLoop_4
+  - first:
+      213: -2597267316025522397
+    second: SkillLoop_5
+  - first:
+      213: 2858587066998428834
+    second: SkillLoop_6
+  - first:
+      213: 4303529550121129671
+    second: SkillLoop_7
+  - first:
+      213: 3593753615937138594
+    second: SkillLoop_8
+  - first:
+      213: 8257621759506429784
+    second: SkillLoop_9
+  - first:
+      213: -3614737338683621216
+    second: SkillLoop_10
+  - first:
+      213: -4505895397736383084
+    second: SkillLoop_11
+  - first:
+      213: -8587738544990794477
+    second: SkillLoop_12
+  - first:
+      213: -5895075421093836869
+    second: SkillLoop_13
+  - first:
+      213: 3189237369317069800
+    second: SkillLoop_14
+  - first:
+      213: 7814725543552980219
+    second: SkillLoop_15
+  - first:
+      213: -3273867048396842045
+    second: SkillLoop_16
+  - first:
+      213: -7268469231465679951
+    second: SkillLoop_17
+  - first:
+      213: -7995082523386640485
+    second: SkillLoop_18
+  - first:
+      213: -6216942286664323439
+    second: SkillLoop_19
+  - first:
+      213: 6191759541877096385
+    second: SkillLoop_20
+  - first:
+      213: 4133677164198020399
+    second: SkillLoop_21
+  - first:
+      213: 8616962987744216163
+    second: SkillLoop_22
+  - first:
+      213: -5542614538186002692
+    second: SkillLoop_23
+  - first:
+      213: -8476856459713228455
+    second: SkillLoop_24
+  - first:
+      213: 2212903364259137187
+    second: SkillLoop_25
+  - first:
+      213: -7222446483497510005
+    second: SkillLoop_26
+  - first:
+      213: 2707016156688633703
+    second: SkillLoop_27
+  - first:
+      213: 2550616963886783791
+    second: SkillLoop_28
+  - first:
+      213: -5510745747383012404
+    second: SkillLoop_29
+  - first:
+      213: -7376023335258032368
+    second: SkillLoop_30
+  - first:
+      213: 1395935144680618599
+    second: SkillLoop_31
+  - first:
+      213: -4745428574849845285
+    second: SkillLoop_32
+  - first:
+      213: -7529669136763461809
+    second: SkillLoop_33
+  - first:
+      213: 6711678062297385712
+    second: SkillLoop_34
+  - first:
+      213: 4671427634529993784
+    second: SkillLoop_35
+  - first:
+      213: 3741040680978742048
+    second: SkillLoop_36
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SkillLoop_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 3621
+        width: 491
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7b6c477202aaeb0800000000000000
+      internalID: -4707915106627438607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillLoop_1
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 3621
+        width: 485
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57dc398610faa1420800000000000000
+      internalID: 2601584155344227701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillLoop_2
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 3623
+        width: 481
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4203ce9cee8991640800000000000000
+      internalID: 5051236608430059556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillLoop_3
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 3625
+        width: 481
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d44156f38def73410800000000000000
+      internalID: 1456913209207624781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillLoop_4
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 3627
+        width: 482
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60834417723df980800000000000000
+      internalID: -8503585034383163285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillLoop_5
+      rect:
+        serializedVersion: 2
+        x: 2466
+        y: 3629
+        width: 480
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32701911327a4fbd0800000000000000
+      internalID: -2597267316025522397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillLoop_6
+      rect:
+        serializedVersion: 2
+        x: 2949
+        y: 3629
+        width: 478
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a497ffbacdbba720800000000000000
+      internalID: 2858587066998428834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillLoop_7
+      rect:
+        serializedVersion: 2
+        x: 3430
+        y: 3627
+        width: 482
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6dd53235539bb30800000000000000
+      internalID: 4303529550121129671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillLoop_8
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 3174
+        width: 484
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af65388fd39fd130800000000000000
+      internalID: 3593753615937138594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillLoop_9
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 3176
+        width: 489
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 857bae05d37f89270800000000000000
+      internalID: 8257621759506429784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillLoop_10
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 3174
+        width: 493
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a00c6bca8fd5ddc0800000000000000
+      internalID: -3614737338683621216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillLoop_11
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 3172
+        width: 495
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49dfade4208d771c0800000000000000
+      internalID: -4505895397736383084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillLoop_12
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 3172
+        width: 491
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31dc4e90b4932d880800000000000000
+      internalID: -8587738544990794477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillLoop_13
+      rect:
+        serializedVersion: 2
+        x: 2498
+        y: 3172
+        width: 484
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7c091532c703ea0800000000000000
+      internalID: -5895075421093836869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillLoop_14
+      rect:
+        serializedVersion: 2
+        x: 2985
+        y: 3172
+        width: 482
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e39b867d72724c20800000000000000
+      internalID: 3189237369317069800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillLoop_15
+      rect:
+        serializedVersion: 2
+        x: 3470
+        y: 3174
+        width: 480
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf495a84a7b737c60800000000000000
+      internalID: 7814725543552980219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillLoop_16
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 2727
+        width: 477
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb1372e343e092d0800000000000000
+      internalID: -3273867048396842045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillLoop_17
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 2727
+        width: 477
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3b1a57eb5312b90800000000000000
+      internalID: -7268469231465679951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillLoop_18
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 2727
+        width: 477
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b970b930ec2cb0190800000000000000
+      internalID: -7995082523386640485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillLoop_19
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 2729
+        width: 481
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ea446ddebf8b9a0800000000000000
+      internalID: -6216942286664323439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillLoop_20
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 2727
+        width: 483
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf383c7f7c8de550800000000000000
+      internalID: 6191759541877096385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillLoop_21
+      rect:
+        serializedVersion: 2
+        x: 2442
+        y: 2725
+        width: 490
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f25ca2cca75cd5930800000000000000
+      internalID: 4133677164198020399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillLoop_22
+      rect:
+        serializedVersion: 2
+        x: 2935
+        y: 2725
+        width: 494
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364ce27ce2a959770800000000000000
+      internalID: 8616962987744216163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillLoop_23
+      rect:
+        serializedVersion: 2
+        x: 3432
+        y: 2723
+        width: 495
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfee18c817da413b0800000000000000
+      internalID: -5542614538186002692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillLoop_24
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 2274
+        width: 491
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95151d256f72c5a80800000000000000
+      internalID: -8476856459713228455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillLoop_25
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 2274
+        width: 485
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6cee4a2efc5be10800000000000000
+      internalID: 2212903364259137187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillLoop_26
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 2274
+        width: 475
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b9cdd7037b4cb90800000000000000
+      internalID: -7222446483497510005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillLoop_27
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 2276
+        width: 477
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f4ba42ad0419520800000000000000
+      internalID: 2707016156688633703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillLoop_28
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 2278
+        width: 480
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d9e8a6d9c956320800000000000000
+      internalID: 2550616963886783791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillLoop_29
+      rect:
+        serializedVersion: 2
+        x: 2454
+        y: 2278
+        width: 482
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3bdbf90f5e583b0800000000000000
+      internalID: -5510745747383012404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillLoop_30
+      rect:
+        serializedVersion: 2
+        x: 2939
+        y: 2280
+        width: 484
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017f3fe3bd913a990800000000000000
+      internalID: -7376023335258032368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillLoop_31
+      rect:
+        serializedVersion: 2
+        x: 3426
+        y: 2280
+        width: 484
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76afb2c3e9b5f5310800000000000000
+      internalID: 1395935144680618599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillLoop_32
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1829
+        width: 484
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd736118ad9d42eb0800000000000000
+      internalID: -4745428574849845285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillLoop_33
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1829
+        width: 489
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4fddf260dd318790800000000000000
+      internalID: -7529669136763461809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillLoop_34
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1827
+        width: 493
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa840e33aba42d50800000000000000
+      internalID: 6711678062297385712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillLoop_35
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 1825
+        width: 494
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8348a1eeeae34d040800000000000000
+      internalID: 4671427634529993784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillLoop_36
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 1823
+        width: 491
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02bf500bda8dae330800000000000000
+      internalID: 3741040680978742048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

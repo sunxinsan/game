@@ -1,0 +1,1288 @@
+fileFormatVersion: 2
+guid: 1afa6fea007be2f438ac5b2a79db2657
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3627722327781709741
+    second: SkillStart_0
+  - first:
+      213: 7814523911086441798
+    second: SkillStart_1
+  - first:
+      213: 7778821651024449530
+    second: SkillStart_2
+  - first:
+      213: -9195225736810428143
+    second: SkillStart_3
+  - first:
+      213: -3159286597989125006
+    second: SkillStart_4
+  - first:
+      213: -2995224634792411600
+    second: SkillStart_5
+  - first:
+      213: 1844507555001181618
+    second: SkillStart_6
+  - first:
+      213: 7023472640655049851
+    second: SkillStart_7
+  - first:
+      213: 8204216691913508992
+    second: SkillStart_8
+  - first:
+      213: 3673407708030875068
+    second: SkillStart_9
+  - first:
+      213: -2998498327105018945
+    second: SkillStart_10
+  - first:
+      213: 588473781297311089
+    second: SkillStart_11
+  - first:
+      213: 832513100941394030
+    second: SkillStart_12
+  - first:
+      213: -5231936291472884539
+    second: SkillStart_13
+  - first:
+      213: -2912117933949630400
+    second: SkillStart_14
+  - first:
+      213: -3486462849008240013
+    second: SkillStart_15
+  - first:
+      213: 3865810418278306869
+    second: SkillStart_16
+  - first:
+      213: 1059544318773390863
+    second: SkillStart_17
+  - first:
+      213: 6694790874196357895
+    second: SkillStart_18
+  - first:
+      213: 7446534168974509041
+    second: SkillStart_19
+  - first:
+      213: -4539309245939987780
+    second: SkillStart_20
+  - first:
+      213: 1315946723318479007
+    second: SkillStart_21
+  - first:
+      213: -508220392851259744
+    second: SkillStart_22
+  - first:
+      213: -8642810402339230606
+    second: SkillStart_23
+  - first:
+      213: -940036362146165039
+    second: SkillStart_24
+  - first:
+      213: 5845008665243997772
+    second: SkillStart_25
+  - first:
+      213: -9052389851461108788
+    second: SkillStart_26
+  - first:
+      213: -913373035110159532
+    second: SkillStart_27
+  - first:
+      213: -3673778610497698062
+    second: SkillStart_28
+  - first:
+      213: 3790825632636137377
+    second: SkillStart_29
+  - first:
+      213: 8650284773531764639
+    second: SkillStart_30
+  - first:
+      213: -547214060181800240
+    second: SkillStart_31
+  - first:
+      213: 2379592688850319505
+    second: SkillStart_32
+  - first:
+      213: 8291268437437139326
+    second: SkillStart_33
+  - first:
+      213: -7837181792030486387
+    second: SkillStart_34
+  - first:
+      213: -7946582014978784576
+    second: SkillStart_35
+  - first:
+      213: 5749380734345268260
+    second: SkillStart_36
+  - first:
+      213: 687088634663962719
+    second: SkillStart_37
+  - first:
+      213: -1661759109219574361
+    second: SkillStart_38
+  - first:
+      213: 778114884573481530
+    second: SkillStart_39
+  - first:
+      213: 1947176435368722152
+    second: SkillStart_40
+  - first:
+      213: -8642325740116269081
+    second: SkillStart_41
+  - first:
+      213: 3462074556615296694
+    second: SkillStart_42
+  - first:
+      213: 1796279033802264406
+    second: SkillStart_43
+  - first:
+      213: 2262552078575998797
+    second: SkillStart_44
+  - first:
+      213: -6701587676125798695
+    second: SkillStart_45
+  - first:
+      213: -3760458757471305724
+    second: SkillStart_46
+  - first:
+      213: 4434704788368772780
+    second: SkillStart_47
+  - first:
+      213: -8738555321024979784
+    second: SkillStart_48
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SkillStart_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 3651
+        width: 376
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da79e239c32485230800000000000000
+      internalID: 3627722327781709741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillStart_1
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 3651
+        width: 372
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6458a111814c27c60800000000000000
+      internalID: 7814523911086441798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillStart_2
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 3653
+        width: 370
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff0e60e31de3fb60800000000000000
+      internalID: 7778821651024449530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillStart_3
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 3653
+        width: 366
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11982e729eef36080800000000000000
+      internalID: -9195225736810428143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillStart_4
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 3655
+        width: 365
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274b437e395f724d0800000000000000
+      internalID: -3159286597989125006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillStart_5
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 3653
+        width: 360
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ef2b46013de66d0800000000000000
+      internalID: -2995224634792411600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillStart_6
+      rect:
+        serializedVersion: 2
+        x: 2255
+        y: 3655
+        width: 362
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5ae5149d1099910800000000000000
+      internalID: 1844507555001181618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillStart_7
+      rect:
+        serializedVersion: 2
+        x: 2620
+        y: 3657
+        width: 366
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b744beb9723687160800000000000000
+      internalID: 7023472640655049851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillStart_8
+      rect:
+        serializedVersion: 2
+        x: 2989
+        y: 3655
+        width: 372
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088c5dd0d9b3bd170800000000000000
+      internalID: 8204216691913508992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillStart_9
+      rect:
+        serializedVersion: 2
+        x: 3364
+        y: 3653
+        width: 382
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb5bc5019d09af230800000000000000
+      internalID: 3673407708030875068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillStart_10
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 3230
+        width: 388
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb36d4188a13366d0800000000000000
+      internalID: -2998498327105018945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillStart_11
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 3228
+        width: 397
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d6bd549cdaa2800800000000000000
+      internalID: 588473781297311089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillStart_12
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 3226
+        width: 407
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e608874214ead8b00800000000000000
+      internalID: 832513100941394030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillStart_13
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 3222
+        width: 416
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ccb843b9ad6467b0800000000000000
+      internalID: -5231936291472884539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillStart_14
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 3220
+        width: 425
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04843ea0b241697d0800000000000000
+      internalID: -2912117933949630400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillStart_15
+      rect:
+        serializedVersion: 2
+        x: 2078
+        y: 3218
+        width: 432
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a744ac2889d9fc0800000000000000
+      internalID: -3486462849008240013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillStart_16
+      rect:
+        serializedVersion: 2
+        x: 2514
+        y: 3218
+        width: 441
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5349b7ee71e16a530800000000000000
+      internalID: 3865810418278306869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillStart_17
+      rect:
+        serializedVersion: 2
+        x: 2959
+        y: 3216
+        width: 447
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e6548b1f144be00800000000000000
+      internalID: 1059544318773390863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillStart_18
+      rect:
+        serializedVersion: 2
+        x: 3409
+        y: 3214
+        width: 456
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 703300e54dca8ec50800000000000000
+      internalID: 6694790874196357895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillStart_19
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 2775
+        width: 461
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f3c88d8f57675760800000000000000
+      internalID: 7446534168974509041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillStart_20
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 2775
+        width: 469
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbac9168a422101c0800000000000000
+      internalID: -4539309245939987780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillStart_21
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 2775
+        width: 476
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98bcba929e234210800000000000000
+      internalID: 1315946723318479007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillStart_22
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 2775
+        width: 480
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aebd70de3072f8f0800000000000000
+      internalID: -508220392851259744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillStart_23
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 2773
+        width: 484
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ce48b0bb19e0880800000000000000
+      internalID: -8642810402339230606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillStart_24
+      rect:
+        serializedVersion: 2
+        x: 2414
+        y: 2773
+        width: 484
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dec35eb8e154f2f0800000000000000
+      internalID: -940036362146165039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillStart_25
+      rect:
+        serializedVersion: 2
+        x: 2901
+        y: 2771
+        width: 480
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c46d2f0b964ad1150800000000000000
+      internalID: 5845008665243997772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillStart_26
+      rect:
+        serializedVersion: 2
+        x: 3384
+        y: 2769
+        width: 468
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb3f4744637f5280800000000000000
+      internalID: -9052389851461108788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillStart_27
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 2326
+        width: 470
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ba6d6501c0353f0800000000000000
+      internalID: -913373035110159532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillStart_28
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 2324
+        width: 473
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f64bd971dd140dc0800000000000000
+      internalID: -3673778610497698062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillStart_29
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 2322
+        width: 476
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1afe8b604d7bb9430800000000000000
+      internalID: 3790825632636137377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillStart_30
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 2322
+        width: 477
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f97c45c9b2cfb0870800000000000000
+      internalID: 8650284773531764639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillStart_31
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 2322
+        width: 480
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dab3c626b7e768f0800000000000000
+      internalID: -547214060181800240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillStart_32
+      rect:
+        serializedVersion: 2
+        x: 2420
+        y: 2322
+        width: 482
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1983a0161f2060120800000000000000
+      internalID: 2379592688850319505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillStart_33
+      rect:
+        serializedVersion: 2
+        x: 2905
+        y: 2318
+        width: 488
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7949def6b0801370800000000000000
+      internalID: 8291268437437139326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillStart_34
+      rect:
+        serializedVersion: 2
+        x: 3396
+        y: 2320
+        width: 492
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d801dddeeacbc3390800000000000000
+      internalID: -7837181792030486387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillStart_35
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1869
+        width: 494
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c28eaa92c118b190800000000000000
+      internalID: -7946582014978784576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillStart_36
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1871
+        width: 492
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ccf1df057e9cf40800000000000000
+      internalID: 5749380734345268260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillStart_37
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 1873
+        width: 482
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f588a5e0977098900800000000000000
+      internalID: 687088634663962719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillStart_38
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 1873
+        width: 472
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad92b005ee30f8e0800000000000000
+      internalID: -1661759109219574361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillStart_39
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 1875
+        width: 473
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a42796d5b6cca00800000000000000
+      internalID: 778114884573481530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillStart_40
+      rect:
+        serializedVersion: 2
+        x: 2456
+        y: 1875
+        width: 476
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eef921c6a2c50b10800000000000000
+      internalID: 1947176435368722152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillStart_41
+      rect:
+        serializedVersion: 2
+        x: 2935
+        y: 1875
+        width: 480
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e7a723478a401880800000000000000
+      internalID: -8642325740116269081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillStart_42
+      rect:
+        serializedVersion: 2
+        x: 3418
+        y: 1875
+        width: 482
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b609f46772cb0030800000000000000
+      internalID: 3462074556615296694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillStart_43
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1426
+        width: 482
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f044f934aade810800000000000000
+      internalID: 1796279033802264406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillStart_44
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1424
+        width: 482
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d471851c023366f10800000000000000
+      internalID: 2262552078575998797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillStart_45
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 1424
+        width: 488
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ded26dd38d2ff2a0800000000000000
+      internalID: -6701587676125798695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillStart_46
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 1422
+        width: 492
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4008a601faa20dbc0800000000000000
+      internalID: -3760458757471305724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillStart_47
+      rect:
+        serializedVersion: 2
+        x: 1983
+        y: 1422
+        width: 493
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caec17a428c3b8d30800000000000000
+      internalID: 4434704788368772780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillStart_48
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 1420
+        width: 490
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bcd4300c3a6ab680800000000000000
+      internalID: -8738555321024979784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
